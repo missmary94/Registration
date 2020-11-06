@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+    <user>
+        <full_name>Марина Кашина</full_name>
+        <login>Mary</login>
+        <email>marisha940724@gmail.com</email>
+        <password>202cb962ac59075b964b07152d234b70</password>
+    </user>
+    <user>
+        <full_name>Андрей Иванов</full_name>
+        <login>Andrey</login>
+        <email>andrey@mail.ru</email>
+        <password>827ccb0eea8a706c4c34a16891f84e7b</password>
+    </user>
+
+</users>
